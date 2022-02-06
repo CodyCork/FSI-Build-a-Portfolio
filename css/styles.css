@@ -1,0 +1,45 @@
+body {
+  margin: 50px 0;
+  padding: 0;
+  text-align: center;
+  border-style: ridge;
+  border-color: rgb(71, 122, 111);
+  background-color: rgb(94, 94, 94);
+  color: whitesmoke;
+}
+
+h1 {
+  color: black;
+  background-color: rgb(71, 122, 111);
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+hr {
+  height: 2px;
+  background-color: rgb(71, 122, 111);
+  border: none;
+}
+
+img {
+  width: 15%;
+  height: auto;
+}
+
+li {
+  color: black;
+}
+
+a {
+  color: rgb(71, 122, 111);
+}
